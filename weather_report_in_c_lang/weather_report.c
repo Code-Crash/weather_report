@@ -1,5 +1,5 @@
-/**************   Wheather Report  ***************
- * This snippet call the Wheather api and get the response from server by using socket
+/**************   Weather Report  ***************
+ * This snippet call the Weather api and get the response from server by using socket
  * 
  * 
  * **************************************************/
